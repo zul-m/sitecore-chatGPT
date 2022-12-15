@@ -26,6 +26,17 @@ In the TODO section of the script, you will need to add code to create or update
 
 ## How to assign icons to Sitecore Items?
 
+To assign icons to Sitecore items, you can use the Sitecore Icon field in the Appearance section of the item's standard values. You can then select an icon from the available options, or you can upload your own custom icon to use. Once you have selected an icon, it will be displayed next to the item's name in the content tree, as well as in any other places where the item's icon is shown.
+
+Here is an example of how you can assign an icon to a Sitecore item:
+ 1. Open the Sitecore content tree and navigate to the item for which you want to assign an icon.
+ 2. In the Content Editor, click the Appearance tab in the ribbon.
+ 3. In the Appearance section, click the Icon field to open the icon picker.
+ 4. From the icon picker, you can select an existing icon from the available options, or you can upload your own custom icon.
+ 5. Once you have selected an icon, it will be displayed next to the item's name in the content tree, as well as in any other places where the item's icon is shown.
+
+It's important to note that the ability to assign icons to Sitecore items may vary depending on the version of Sitecore you are using and the configuration of your Sitecore instance. If you are having trouble assigning icons to Sitecore items, it's a good idea to consult your Sitecore documentation or reach out to your Sitecore support team for assistance.
+
 ## How to create Package in Sitecore?
 
 ## How to install Package in Sitecore?
