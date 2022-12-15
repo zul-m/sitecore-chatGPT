@@ -74,3 +74,8 @@ To publish items in Sitecore, you need to follow these steps:
  6. Once the publishing process is complete, the item will be available on the target environment.
 
 Keep in mind that in order to publish items in Sitecore, you need to have the necessary permissions to do so. If you are not sure whether you have the necessary permissions, you can contact your Sitecore administrator for help.
+
+### References
+
+ 1. [Youtube link](https://www.youtube.com/watch?v=-NLv4lveylM)
+ 2. [ChatGPT AI](https://openai.com/blog/chatgpt/)
