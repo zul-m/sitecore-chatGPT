@@ -39,6 +39,17 @@ It's important to note that the ability to assign icons to Sitecore items may va
 
 ## How to create Package in Sitecore?
 
+To create a package in Sitecore, you will need to follow these steps:
+ 1. Log in to the Sitecore Content Management system.
+ 2. In the Sitecore menu, click on the "Development Tools" option, then click on the "Package Designer" option.
+ 3. In the Package Designer, click on the "Create a new package" button.
+ 4. Enter a name and description for the package, then click "OK."
+ 5. In the Package Contents section, click on the "Add" button to add items to the package.
+ 6. Use the search box and the tree view to select the items that you want to include in the package.
+ 7. Once you have selected all the items you want to include, click on the "Create" button to create the package.
+
+Keep in mind that creating a package in Sitecore allows you to export and import items from your Sitecore instance. This can be useful for backing up your content, moving items from one environment to another, or sharing items with other Sitecore users.
+
 ## How to install Package in Sitecore?
 
 ## How to publish items in Sitecore?
