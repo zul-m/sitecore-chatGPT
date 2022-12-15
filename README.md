@@ -14,13 +14,13 @@ In either case, it is recommended that you carefully plan your data migration an
 
 ## Write C# code to migrate excel file data to Sitecore?
 
-This code uses the Microsoft.Office.Interop.Excel library to open and read the Excel file. It then loops through each row of data in the file, creating a new Sitecore item for each row and setting the values of the fields on the item based on the data in the Excel file.
+[This code](https://github.com/zul-m/sitecore-chatGPT/blob/main/migrate-excel.cs) uses the Microsoft.Office.Interop.Excel library to open and read the Excel file. It then loops through each row of data in the file, creating a new Sitecore item for each row and setting the values of the fields on the item based on the data in the Excel file.
 
 Of course, this is just an example, and you will need to modify the code to suit your specific needs and requirements. For example, you may need to change the path to the Excel file, the GUIDs of the parent item and the template, and the field names and values that are being imported.
 
 ## Write Powershell script to migrate excel data to Sitecore?
 
-This script assumes that you have installed the SitecoreFundamentals module and the Microsoft Office interop assemblies. It also assumes that you know the path to the Excel file that you want to migrate.
+[This script](https://github.com/zul-m/sitecore-chatGPT/blob/main/migrate-excel.ps1) assumes that you have installed the SitecoreFundamentals module and the Microsoft Office interop assemblies. It also assumes that you know the path to the Excel file that you want to migrate.
 
 In the TODO section of the script, you will need to add code to create or update the corresponding item in Sitecore using the value of the current cell. This will depend on your specific Sitecore implementation and the structure of your Excel data.
 
