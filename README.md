@@ -1,1 +1,2 @@
-# sitecore-chatGPT
+# ChatGPT with Sitecore
+
